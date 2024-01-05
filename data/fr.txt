@@ -1,0 +1,126 @@
+Langue : &nbsp
+<i class="fa-solid fa-house-user" ></i>&nbsp À propos
+<span>Dernière mise à jour :</span> &nbsp&nbsp 05 janvier 2024
+
+Je suis <span>Béatrice GARCIA CEGARRA</span>
+Etudiante en Ingénierie et Informatique<br><span>en Intelligence Artificielle et Jeux vidéo</span>
+&nbsp Bienvenue ! Je suis Béatrice, étudiante en dernière année de maitrise à l'EPF école d'ingénieur à Cachan en France et couramment en déplacement au Canada pour l'année 2023-2024 dans le cadre d'un double diplôme en <span>Informatique</span> à l'Univeristé du Québec à Chicoutimi. <br><br>&nbsp Je m'intéresse particulièrement aux mathématiques et à la <span>résolution de problèmes complexes</span>. De fait, je m'oriente davantage vers la <span>recherche et la conception d'intelligence artificielle dans divers domaines</span> tels que les jeux vidéo. <br><br>&nbsp Si mon objectif est de poursuivre mes études par une thèse en IA, je recherche une <span>expérience professionnelle dans un milieu technique et scientifique</span> en quête de solutions numériques.
+
+Formulaire de contact
+Ce formulaire permettra de m'envoyer directement un courriel. Merci de vous présenter et d'indiquer la raison de votre communication.
+NOM Prénom
+Adresse courriel
+Entreprise
+Sujet du courriel
+Contenu du courriel
+Envoyer
+
+Etudiante en maitrise à l’UQAC et élève ingénieur à l’EPF en France, en Informatique (concentration en jeu vidéo)
+Recherche d’un stage de fin d’études de 6 mois à partir de juillet 2024 en intelligence artificielle
+Coordonnées
+Sur demande (numéro français)
+Langues
+Français :
+Langue maternelle
+Espagnol :
+Bilingue
+Anglais :
+Courant
+Informatique
+Compétences
+Adaptabilité
+Rigueur
+Diplomatie
+Organisation
+Communication
+Centres d'intérêt
+Roller
+Chant
+Littérature
+Formations
+Maitrise en Informatique Volet Professionnel – <em>Actuellement en M2</em>
+<strong>Université du Québec à Chicoutimi (UQAC)</strong>, <em>Concentration Jeux Vidéo</em>
+Développement de modèles d’apprentissage machine et profond
+IoT, Structure de données, projets en équipe d’IA et jeu vidéo
+Diplôme d’ingénieur généraliste – <em>Actuellement en M2
+<strong>EPF Ecole d’ingénieur.e.s,</strong>, <em>Majeure Ingénierie et Numérique</em>
+Cours de Web, Quantique, Statistiques, Sécurité, Management, etc.
+Baccalauréat Général Scientifique (BAC S, Mention Très Bien)
+<strong>Lycée Saint Hilaire</strong>, <em>Spécialité Mathématiques</em>
+<em>Autres formations</em>
+Programme court du 1er cycle en Informatique
+<strong>Université du Québec à Chicoutimi (UQAC)</strong>
+Conception et développement de sites web, Sécurité des réseaux et du Web
+Structures de données (C++), Conception et design de jeux vidéo
+Prévention Secours Civiques Niveau 1 (PSC1)
+<strong>Protection Civile, MNS</strong>
+Brevet d’Aptitude aux Fonctions d’Animateur (BAFA)<br>Brevet de Surveillant de Baignade (BSB)
+Expériences en milieu professionnel
+Aide pédagogique en "Programmation de sites Web" - <strong>UQAC</strong>
+Supervision de travaux dirigés et correction de projets
+Stage ouvrier / d’exécution - <strong>SUEZ Eau France</strong>
+Recherches dans les archives, conception d’une base de données et cartographies
+En bureau d’étude et avec les techniciens sur le terrain
+Stage Entreprise - <strong>Natixis, Banque Internationale
+Assistance au service des flux bancaires
+Projets pédagogiques
+SoulKnight – Conception et développement de jeu vidéo - <strong>UQAC</strong>
+Implémentation des comportements artificiels des ennemis
+Gestion d’un projet en équipe de 5 sous la méthode Agile
+<em>2ème prix</em> – Hackathon IA ConformiT - <strong>ConformiT</strong> & <strong>UQAC</strong>
+Conception d’une IA de virtualisation des P.I.D. par clustering
+<em>2ème prix</em> – WonderJam - <strong>UQAC</strong>
+Création de jeu vidéo sur le thème "It’s not a glitch, it’s a feature"
+Engagement associatif
+Stage Engagement Citoyen
+<strong>Association JEUNESSE</strong>
+Conception d’un site internet WordPress et interview des salariés
+Analyse du besoin client et travail en équipe de 10 personnes
+Animateur BAFA (Responsable Louveteaux)
+<strong>Eclaireurs de France (EEDF)</strong>
+Encadrement quotidien d’enfants de 8 à 11 ans
+Organisation de randonnées, veillées, activités en plein air
+Vice-Présidente étudiante
+<strong>Union de la Vie Associative EPF (UVA)<br>Conseil de la Vie Etudiante EPF (CVE)</strong>
+Suivi financier, promotionnel, administratif des associations EPF
+Représentation interne et externe des Etudiants et associations
+<i class="fa-solid fa-download"></i>Télécharger
+
+<i class="fa-solid fa-gears"></i> &nbsp Mes réalisations &nbsp <i class="fa-solid fa-gears"></i>
+Ces projets réalisés dans le cadre de mes études s'étendent de décembre 2022 à aujourd'hui
+SOULKNIGHT - Jeu d'aventure fantastique
+Jeux Vidéo
+Blueprint, C++
+Rider, UE5
+Octobre à Décembre 2023
+Dans le cadre du projet de groupe pour le cours "Conception et développement de jeux vidéo", nous avons en équipe de 5 implémenté un jeu vidéo complet d'inspiration médiéval fantaisie contenant plusieurs énigmes, boss et ennemis. J'ai réalisé les <span>cinématiques</span> d'introduction, l'intégration des <span>sons</span> ainsi que les ennemis en utlisant les technologies d'<span>intelligence artificielle</span> d'Unreal Engine 5 : <span>Behaviour tree, blackboard, tasks, IA Perceptron, etc.</span>
+Modèles d'apprentissage automatique
+Intelligence Artificielle
+Python, Scikit-Learn
+Collab, Jupyter
+Septembre à Novembre 2023
+Dans des projets indivuels pour le cours "Fondamentaux de l'apprentissage automatique", j'ai conçu, entrainé et analysé plusieurs modèles de <span>machine et deep learning</span> à l'aide de la <span>bibliothèque Scikit-Learn</span> : <span>Decision Tree, MLP Classifier, PMC, CNN, XG Boost, RandomForest, etc.</span>. J'ai également eu l'occasion de préparer différents jeux de données d'ordre catégoriel, numérique ou bien visuel et de pratiquer des validations croisées sur les modèles d'apprentissage.
+Sudokus & coloration de graphes
+Intelligence Artificielle
+C#
+Rider
+Janvier 2023
+Dans le cadre d'un projet de groupe pour le cours "Intelligence artficielle I", j'ai réalisé une adaptation de <span>l'algorithme de coloration de graphes DSatur</span> au problème de la résolution de sudokus. Nous avons par la suite implémenté l'algorithme dans l'environnement de travail fourni par le professeur et testé ses <span>performances sur trois niveaux de difficultés différents</span> pour comparer ses résultats à ceux de plusieurs autres algorithmes inspirés de méthodes d'apprentissage automatique.
+Simulation physique & tir balistique
+Simulation
+C++, openFrameworks
+Visual Studio
+Septembre à Décembre 2023
+Dans le cadre du projet de groupe pour le cours "Mathématiques et Physique pour le jeu vidéo", nous avons réalisé en <span>peer coding</span>, dans un <span>environnement 3D</span> développé à l'aide d'OpenFrameworks, la <span>simulation</span> des collisions, des forces (gravité, frottement de l'air, etc.), d'élements de liaison (tiges, cables, ressorts), des positions et vitesses angulaires et linéaires à partir de l'intégration d'Euler et de Verlet avec et sans harmoniques. En parrallèle de ce travail, tous les <span>élements mathématiques</span> (Matrice, Quaternion, vecteur) nécessaires à l'implémentation des lois sur les <span>éléments physiques</span> ( plan, Particule, cube, sphère, etc.) ont été implémentés.
+Site de gestion de connexions sécurisé
+Web, Sécurité
+HTML, CSS, JS, PHP
+PhpStorm
+Novembre à Décembre 2022
+Dans le cadre du projet de groupe pour le cours "Sécurité des réseaux et du web", nous avons réalisé un site de connexion proposant des <span>comptes client et administrateur</span> avec une <span>interface d'administration</span> permettant de géré les paramètres de sécurité des mots de passe (durée de validité, compléxité attendue, etc.). La gestion de compte est reliée à une base de données php entièrement cryptée. J'ai réalisé toutes les <span>interfaces utilisateur HTML, CSS et JS</span> ainsi que la <span>gestion et le passage des paramètres de mot de passe</span> par <span>fichier JSON crypté</span>.
+Application de gestion de films
+Mobile
+Kotlin
+Android Studio
+Avril à Mai 2023
+Dans le cadre du projet de groupe pour le cours "Matériels Mobiles", nous avons réalisé une <span>application de gestion films tirés d'une API open source</span> (liste de favoris, création de compte, recherche par nom ou QR Code). J'ai réalisé la gestion de compte en utilisant un fichier JSON enregistré sur l'Internal Storage de l'application, les interfaces utlisateur d'accueil, de connexion et d'affichage en liste ainsi que la recherche par QR Code.
