@@ -1,3 +1,9 @@
+#holder {
+    display: grid;
+    justify-items: center;
+}
+
+
 body #homepage-wrapper {
     width:1150px;
     height: auto;
@@ -5,8 +11,7 @@ body #homepage-wrapper {
     position: absolute;
     margin-top: 40px;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(0, -50%);
 
     border:10px outset ghostwhite;
 
